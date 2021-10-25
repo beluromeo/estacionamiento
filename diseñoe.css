@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(252, 255, 228);
+}
+h1{
+     text-align: center;
+     font-family: Century Gothic;
+     color: rgb(1, 1, 54);
+     font-size: 300%;
+
+}
+p.centrado {
+    text-align: center;
+  }
+  .centrado{
+    width: 200px;
+  }
+p{
+    text-align: center;
+    font-family: Century Gothic;
+    color: rgb(1, 1, 54);
+    font-size: 100%;   
+
+}
+h2{
+    text-align: center;
+    font-family: Century Gothic;
+    color: rgb(1, 1, 54);
+    font-size: 150%;   
+}
+       
+
+        
+       
+
